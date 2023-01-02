@@ -29,3 +29,5 @@
 ### A website for a psychologist. User can get information about all services provided and fill a form to ask for a call.
 
 [![Psychology](https://img.shields.io/badge/-Psychology-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://github.com/smerch88/Psychology_Website)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smerch88&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/smerch88/)
