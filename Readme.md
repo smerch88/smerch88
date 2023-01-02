@@ -1,6 +1,6 @@
 <div align="center"><img src="https://github.com/smerch88/smerch88/blob/main/assets/name.gif"></div>
 
-<h1>Welcome to my profile!</h1>
+## Welcome to my profile!
 
 ### I am a proactive problem-solver with skills in React, JavaScript,HTML, and CSS. I enjoy developing functional applications and sharing my work with others. I am passionate about technology and constantly seeking to improve my skills.
 
@@ -11,3 +11,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-pink?style=for-the-badge&logo=SASS&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-darkblue?style=for-the-badge&logo=React&logoColor=fff)
+
+## Projects:
+
+![Filmoteka](https://github.com/Veronikanos/FilmotekaTeamProject)
