@@ -4,8 +4,8 @@
 
 ## Languager and Tools
 
-![HTML](https://img.shields.io/badge/-HTML-orange?style=plastic&logo=HTML5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=plastic&logo=CSS3&logoColor=fff)
-![SASS](https://img.shields.io/badge/-SASS-pink?style=plastic&logo=SASS&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=JavaScript&logoColor=fff)
-![React](https://img.shields.io/badge/-React-darkblue?style=plastic&logo=React&logoColor=fff)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=HTML5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=fff)
+![SASS](https://img.shields.io/badge/-SASS-pink?style=for-the-badge&logo=SASS&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=fff)
+![React](https://img.shields.io/badge/-React-darkblue?style=for-the-badge&logo=React&logoColor=fff)
