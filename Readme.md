@@ -30,4 +30,8 @@
 
 [![Psychology](https://img.shields.io/badge/-Psychology-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://github.com/smerch88/Psychology_Website)
 
+### A web application for comparing stats of github users. Users represented in cards and data saved to local storage.
+
+[![GitHUBstats](https://img.shields.io/badge/-GitHUBstats-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://github.com/smerch88/githubstats)
+
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smerch88&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/smerch88) -->
