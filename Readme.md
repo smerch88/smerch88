@@ -26,7 +26,7 @@
 
 [![IceCram](https://img.shields.io/badge/-IceCram-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://github.com/InnaForkert/team-project-1)
 
-### A website for a psychologist. User can get information about all services provided and fill a form to ask for a call.
+### A website for a psychologist. Client can get information about all services provided and fill a form to ask for a call.
 
 [![Psychology](https://img.shields.io/badge/-Psychology-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://github.com/smerch88/Psychology_Website)
 
