@@ -18,7 +18,7 @@
 
 [![GitHUBstats](https://img.shields.io/badge/-GitHUBstats-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://github.com/smerch88/githubstats)
 
-### A website where user could search for movies and add the to two lists - watched and a queu to watch. Team project.
+### A website where user could search for movies and add to lists - watched and a queu to watch. Team project.
 
 [![Filmoteka](https://img.shields.io/badge/-Filmoteka-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://github.com/Veronikanos/FilmotekaTeamProject)
 
