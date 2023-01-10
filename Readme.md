@@ -4,7 +4,7 @@
 
 ### I am a proactive problem-solver with skills in React, JavaScript,HTML, and CSS. I enjoy developing functional applications and sharing my work with others. I am passionate about technology and constantly seeking to improve my skills.
 
-## Languager and Tools
+## Languages and Tools
 
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=HTML5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=fff)
