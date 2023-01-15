@@ -14,6 +14,7 @@
 ![StyledComponents](https://img.shields.io/badge/-Styled_Components-pink?style=for-the-badge&logo=StyledComponents&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=fff)
 ![Django](https://img.shields.io/badge/-Django-darkgreen?style=for-the-badge&logo=Django&logoColor=fff)
+![Arduino](https://img.shields.io/badge/-Arduino-lightblue?style=for-the-badge&logo=Arduino&logoColor=fff)
 
 ## Some Projects:
 
