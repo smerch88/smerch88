@@ -11,6 +11,9 @@
 ![SASS](https://img.shields.io/badge/-SASS-pink?style=for-the-badge&logo=SASS&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-darkblue?style=for-the-badge&logo=React&logoColor=fff)
+![StyledComponents](https://img.shields.io/badge/-Styled_Components-pink?style=for-the-badge&logo=StyledComponents&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=fff)
+![Django](https://img.shields.io/badge/-Django-darkgreen?style=for-the-badge&logo=Django&logoColor=fff)
 
 ## Some Projects:
 
