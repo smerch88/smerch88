@@ -28,7 +28,7 @@
 
 ### Ice company website with responsive layout, burger menu, modal window andattractive design. Team project
 
-[![IceCream](https://img.shields.io/badge/-IceCram-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://github.com/InnaForkert/team-project-1)
+[![IceCream](https://img.shields.io/badge/-IceCream-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://github.com/InnaForkert/team-project-1)
 
 ### A website for a psychologist. Client can get information about all services provided and fill a form to ask for a call.
 
