@@ -12,11 +12,16 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-darkblue?style=for-the-badge&logo=React&logoColor=fff)
 ![StyledComponents](https://img.shields.io/badge/-Styled_Components-pink?style=for-the-badge&logo=StyledComponents&logoColor=fff)
+![MUI](https://img.shields.io/badge/-MUI-purple?style=for-the-badge&logo=MUI&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=fff)
 ![Django](https://img.shields.io/badge/-Django-darkgreen?style=for-the-badge&logo=Django&logoColor=fff)
 ![Arduino](https://img.shields.io/badge/-Arduino-lightblue?style=for-the-badge&logo=Arduino&logoColor=fff)
 
 ## Some Projects:
+
+### A web application for management your personal finances.
+
+[![GitHUBstats](https://img.shields.io/badge/-Money_Manager-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://github.com/Daniel-Slavnyi/money-manager)
 
 ### A web application for comparing stats of github users. Users represented in cards and data saved to local storage.
 
