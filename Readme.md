@@ -21,9 +21,13 @@
 
 ### A website for charity organization.
 
-[![Horobra_Ukrayina](https://img.shields.io/badge/-Horobra_Ukrayina-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://github.com/smerch88/StrongNationReact)
+[![Horobra_Ukrayina](https://img.shields.io/badge/-Horobra_Ukrayina-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://github.com/smerch88/github_repo_search)
 
-### A web application for management your personal finances.
+### A web application for searching repos under several different filters.
+
+[![Github Repository Search](https://img.shields.io/badge/-Github_Repository_Search-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://github.com/Daniel-Slavnyi/money-manager)
+
+### A web application for comparing stats of github users. Users represented in cards and data saved to local storage.
 
 [![MoneyManager](https://img.shields.io/badge/-Money_Manager-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://github.com/Daniel-Slavnyi/money-manager)
 
