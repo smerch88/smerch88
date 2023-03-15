@@ -25,9 +25,13 @@
 
 [![Horobra_Ukrayina](https://img.shields.io/badge/-Horobra_Ukrayina-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://github.com/smerch88/github_repo_search)
 
+### A web application for Nova Poshta TTN and Departments searching.
+
+[![Github Repository Search](https://img.shields.io/badge/-Nova_Poshta_Helper-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://github.com/smerch88/nova_poshta)
+
 ### A web application for searching movies. NextJS + TypeScript.
 
-[![Github Repository Search](https://img.shields.io/badge/-NexttJS_Movie_Search-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://github.com/smerch88/next_js_movies)
+[![Github Repository Search](https://img.shields.io/badge/-NextJS_Movie_Search-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://github.com/smerch88/next_js_movies)
 
 ### A web application for searching repos under several different filters.
 
