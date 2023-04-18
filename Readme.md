@@ -29,6 +29,10 @@
 
 [![Github Repository Search](https://img.shields.io/badge/-Nova_Poshta_Helper-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://github.com/smerch88/nova_poshta)
 
+### A SpaceX tours website.
+
+[![Github Repository Search](https://img.shields.io/badge/-SpaceX-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://github.com/smerch88/spaceX-test-task)
+
 ### A web application for searching movies. NextJS + TypeScript.
 
 [![Github Repository Search](https://img.shields.io/badge/-NextJS_Movie_Search-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://github.com/smerch88/next_js_movies)
