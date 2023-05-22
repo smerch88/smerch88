@@ -15,6 +15,7 @@
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=React&logoColor=fff)
 ![StyledComponents](https://img.shields.io/badge/-Styled_Components-pink?style=for-the-badge&logo=StyledComponents&logoColor=fff)
 ![MUI](https://img.shields.io/badge/-MUI-purple?style=for-the-badge&logo=MUI&logoColor=fff)
+![Tailwind](https://img.shields.io/badge/-Tailwind-purple?style=for-the-badge&logo=Tailwind&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=fff)
 ![Django](https://img.shields.io/badge/-Django-darkgreen?style=for-the-badge&logo=Django&logoColor=fff)
 ![Arduino](https://img.shields.io/badge/-Arduino-lightblue?style=for-the-badge&logo=Arduino&logoColor=fff)
@@ -23,7 +24,7 @@
 
 ### A website for charity organization.
 
-[![Horobra_Ukrayina](https://img.shields.io/badge/-Horobra_Ukrayina-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://github.com/smerch88/github_repo_search)
+[![Horobra_Ukrayina](https://img.shields.io/badge/-Horobra_Ukrayina-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://strong-nation.online/)
 
 ### A web application for Nova Poshta TTN and Departments searching.
 
